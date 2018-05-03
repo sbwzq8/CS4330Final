@@ -48,7 +48,7 @@ public class Person
 ---
 ## C#
 
-### this block of code shows how C# would inspect an object and return the properties and methods in a list
+### this block of code shows how C# would inspect an object and return the properties and methods in a list.
 ```CS
 var accessor = TypeAccessor.Create(ac.GetType());
 var values = accessor.GetMembers()
