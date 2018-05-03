@@ -28,7 +28,7 @@ public class ThisIsAJavaClass{
 ```
 ---
 ## C#
-### In defining classes in C#, they must be in a code block with the properties/fields and methods defined within the scope of the class. Proper formatting in C# includes Pascal case Class names, constructors, properties/fields and methods. Constructors must have the same name as the class. Classes are contained in namespaces in C# which do not have to conform with the directory structure.
+#### In defining classes in C#, they must be in a code block with the properties/fields and methods defined within the scope of the class. Proper formatting in C# includes Pascal case Class names, constructors, properties/fields and methods. Constructors must have the same name as the class. Classes are contained in namespaces in C# which do not have to conform with the directory structure.
 ```CS
 namespace CSharp_example
 {
