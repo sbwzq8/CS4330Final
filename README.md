@@ -1,2 +1,23 @@
-# CS4330Final
-Final Project for CS4330 Comparing Java and C#
+# CS4330 Final Project Comparing C# and Java
+## Collaborators: Sean Winegar, Alex Wilhelm, Adam Thoma-Perry
+
+### [Language purpose/genesis](https://github.com/sbwzq8/CS4330Final/wiki/Language-purpose-and-genesis)
+### [Unique features of the language](https://github.com/sbwzq8/CS4330Final/wiki/Unique-features-of-the-language)
+### [Name spaces](https://github.com/sbwzq8/CS4330Final/wiki/Name-spaces)
+### [Types](https://github.com/sbwzq8/CS4330Final/wiki/Types)
+### [Classes](https://github.com/sbwzq8/CS4330Final/wiki/Classes)
+### [Instance reference name in data type (class)](https://github.com/sbwzq8/CS4330Final/wiki/Instance-reference-name-in-data-type-(class))
+### [Properties](https://github.com/sbwzq8/CS4330Final/wiki/Properties)
+### [Interfaces / protocols](https://github.com/sbwzq8/CS4330Final/wiki/Interfaces-and-protocols)
+### [Inheritance / extension](https://github.com/sbwzq8/CS4330Final/wiki/Inheritance-and-extension)
+### [Reflection](https://github.com/sbwzq8/CS4330Final/wiki/Reflection)
+### [Memory management](https://github.com/sbwzq8/CS4330Final/wiki/Memory-management)
+### [Comparisons of references and values](https://github.com/sbwzq8/CS4330Final/wiki/Comparisons-of-references-and-values)
+### [Null/nil references](https://github.com/sbwzq8/CS4330Final/wiki/Null-and-nil-references)
+### [Errors and exception handling](https://github.com/sbwzq8/CS4330Final/wiki/Errors-and-exception-handling)
+### [Lambda expressions, closures, or functions as types](https://github.com/sbwzq8/CS4330Final/wiki/Lambda-expressions,-closures,-or-functions-as-types)
+### [Implementation of listeners and event handlers](https://github.com/sbwzq8/CS4330Final/wiki/Implementation-of-listeners-and-event-handlers)
+### [Singleton](https://github.com/sbwzq8/CS4330Final/wiki/Singleton)
+### [Procedural programming](https://github.com/sbwzq8/CS4330Final/wiki/Procedural-programming)
+### [Functional programming](https://github.com/sbwzq8/CS4330Final/wiki/Functional-programming)
+### [Multithreading](https://github.com/sbwzq8/CS4330Final/wiki/Multithreading)
