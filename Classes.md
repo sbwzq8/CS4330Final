@@ -1,8 +1,6 @@
 # [HomePage](README.md)
 
-Destructing/de-initializing
-
-### Classes in java and C# are very similar to one another
+### Classes in java and C# are very similar to one another in declaration, but there are many differences as well, including packaging and properties.
 
 # Defining Classes
 
