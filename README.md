@@ -1,7 +1,7 @@
 # CS4330 Final Project Comparing C# and Java
 ## Collaborators: Sean Winegar, Alex Wilhelm, Adam Thoma-Perry
 
-### [Language purpose/genesis](https://github.com/sbwzq8/CS4330Final/blob/master/Language%20purpose%20and%20genesis.md)
+### [Language purpose/genesis](Language%20purpose%20and%20genesis.md)
 ### [Unique features of the language](https://github.com/sbwzq8/CS4330Final/blob/master/Unique%20features%20of%20the%20language.md)
 ### [Name spaces](https://github.com/sbwzq8/CS4330Final/blob/master/Name%20spaces.md)
 ### [Types](https://github.com/sbwzq8/CS4330Final/blob/master/Types.md)
