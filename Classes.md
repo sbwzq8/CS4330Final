@@ -83,7 +83,7 @@ namespace CSharp_example{
 ---
 # Destructing/de-initializing
 
-# java
+## java
 #### In java, objects are destructed through the garbage collector. You don't have to do anything at all, once the object is no longer referenced, the garbage collector will hit it with the most dangerous number in computing: 9.
 
 ```java
@@ -98,7 +98,7 @@ public class MainClass{
 }
 ```
 ---
-# C#
+## C#
 #### In C#, objects are desctructed with a finalizer. Finalizers, like constructors have the same name as the class, but begin with a "~" and take in no arguments. They are called when the object no longer has a reference to it. Finalizers were used in C++, but the .Net framework uses garbage collectors so it is uncommon to use them. Basically, you dont need to implement finalizers, but you can if you want to, but why would you because .NET will do it for you.
 ```CS
 namespace CSharp_example
