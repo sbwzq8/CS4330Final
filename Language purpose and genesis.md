@@ -1,5 +1,8 @@
 # [HomePage](README.md)
 
 ## java
+#### Java was developed in the mid 1990s originally designed to create interactive television for digital television providers. When it was rejected for being too complex for machinery, it pivoted to become a language that could run on any machine. In order to do this, java would have 2 components, the Java Virtual Machine that would run on any architecture and the compiler that would compile code to be read by the JVM in the form of java bytecode. Java borrowed a lot of syntax from C and C++, but eliminated the need for low level management of memory. For example, the garbage collector that runs on the JVM releases memory from objects that are no longer referenced by the program. No need for allocating memory for data structures and freeing the memory when no longer needed. After the release of C#, java had to evolve in order to keep up. Similar to C#, java does not have the ability to have functions outside of classes. Java adds the idea of closures using annonymous inner classes which are blocks of code that can be referenced 
+
 
 ## C#
+#### C# was developed alongside the .NET framework in the late 1990s under the code name Cool (C-like object oriented language). C# was primarily a reaction to the flaws in other object oriented languages. It was based on the existing c++ but borrowed a lot from java in terms of simplicity. Unlike c++ and like java, C# doesn't support class inheritance from multiple classes. Unlike java, C# allows operator overloading. C# took a step back from c++, however, and removed the ability to create functions that exists outside of classes. In order to declare a function, a utility class must be created. C# also adds the idea of closures to reference code blocks. 
