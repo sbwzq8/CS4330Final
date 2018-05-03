@@ -106,6 +106,7 @@ public class Person
 ```
 ### So in order to compare user defined objects, the equals() method of Object must be overriden
 
+---
 ## C#
 #### In C#, comparisons can be made using the == operator, as well as the Equals() and ReferenceEquals() methods of object(). However it gets tricky. Unlike java, the == operator CAN be used to compare the contents of 2 string objects. It can also be used to compare primitive data types also called predefined values such as int and double. However, when == is used on any object other than string or predefined values, it will only compare the reference. Equals and ReferenceEquals should not be used on predefined data types.
 

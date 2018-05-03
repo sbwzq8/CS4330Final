@@ -67,7 +67,7 @@ public class MainClass{
     }
 }
 ```
-
+---
 ## C#
 ```CS
 namespace CSharp_example{
@@ -97,7 +97,7 @@ public class MainClass{
     }
 }
 ```
-
+---
 # C#
 #### In C#, objects are desctructed with a finalizer. Finalizers, like constructors have the same name as the class, but begin with a "~" and take in no arguments. They are called when the object no longer has a reference to it. Finalizers were used in C++, but the .Net framework uses garbage collectors so it is uncommon to use them. Basically, you dont need to implement finalizers, but you can if you want to, but why would you because .NET will do it for you.
 ```CS

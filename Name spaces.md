@@ -18,7 +18,7 @@ public class FinalProject(){
 ```
 #### In this java example, the namespace of the project is finalproject and it imports two existing classes, ArrayLists and Objects, from java.util, as well as all classes within java.math. When using imports, the import must declare the name of a class inside the package, or the declaration must include a wildcard to import all classes within the package.
 
-
+---
 ## C#
 #### In C#, namespaces are implemented as a class structure for an application. Namespaces are not necessarily tied to the directory structure in C# as they are with java. In C#, once a globabl namespace is declared, all namespaces within its scope can be called
 ```CS
